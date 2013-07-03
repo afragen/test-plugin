@@ -2,6 +2,7 @@
 /*
 Plugin Name: Test Plugin
 Plugin URI: https://github.com/afragen/test-plugin/
+GitHub Plugin URI: https://github.com/afragen/test-plugin/
 Description: This plugin is used for testing functionality of Github updating of plugins.
 Version: 0.7
 Author: Andy Fragen
